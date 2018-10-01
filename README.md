@@ -43,7 +43,7 @@ https://github.com/sydneycytometry
 * Add the fjlib.jar dependency for the package from IntelliJ found in: /Applications/FlowJo/Resources/Java/flib-2.3.0.jar
 * Link the third party JSON-java library jar file to the package.
 * Build the project ensuring that there are no errors.
-* Build Artifact in IntelliJ, ensuring that only the third party libraries are present in the jar file.
+* Build Artifact in IntelliJ, ensuring that only the third party library (JSON-java library) is present in the jar file.
 * After build completion the jar file can be found in the project folder: /out/artifacts/module-name/jar-file.
 * Copy the jar file to the /Applications/plugins folder.
 * Start FlowJo and load a workspace of your choice that contains Annotations data.
