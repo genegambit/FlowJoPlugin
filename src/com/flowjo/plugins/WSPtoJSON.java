@@ -31,7 +31,7 @@ public class WSPtoJSON implements WorkspacePluginInterface {
      */
     @Override
     public String getServerUrl() {
-        return "http://localhost:8080/WSPtoJSON";
+        return "http://localhost:8080/WSPtoJSON ";
     }
 
     @Override
